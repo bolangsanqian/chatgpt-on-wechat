@@ -1,0 +1,25 @@
+{
+  "name": "英语口语练习小程序",
+  "appid": "__UNI__ENGLISH_SPEAKING_DEMO",
+  "description": "基于 uni-app 的英语口语练习小程序示例",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true
+  },
+  "h5": {
+    "title": "英语口语练习"
+  }
+}

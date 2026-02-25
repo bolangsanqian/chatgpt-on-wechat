@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "口语练习"
+      }
+    },
+    {
+      "path": "pages/practice/index",
+      "style": {
+        "navigationBarTitleText": "每日练习"
+      }
+    },
+    {
+      "path": "pages/scenario/index",
+      "style": {
+        "navigationBarTitleText": "情景对话"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "学习中心"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#6b7280",
+    "selectedColor": "#2563eb",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/practice/index",
+        "text": "练习"
+      },
+      {
+        "pagePath": "pages/scenario/index",
+        "text": "对话"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "英语口语练习",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f3f4f6"
+  }
+}
